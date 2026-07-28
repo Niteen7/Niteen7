@@ -9,7 +9,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:232F3E&height=280&section=header&text=Niteen%20R%20Mahapure&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AWS%20DevOps%20Engineer%20%7C%20Cloud%20Automation&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:232F3E,70:FF9900,100:0F172A&height=280&section=header&text=NITEEN%20R%20MAHAPURE&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AWS%20DEVOPS%20ENGINEER%20%7C%20CLOUD%20AUTOMATION%20%7C%20KUBERNETES%20%7C%20TERRAFORM&descAlignY=60&descSize=18"/>
 
 
 <br>
