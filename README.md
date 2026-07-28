@@ -23,39 +23,6 @@
 
 
 ---
-
-# 👨‍💻 About Me
-
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-```yaml
-Name: Niteen R Mahapure
-
-Role:
-  - AWS DevOps Engineer
-
-Experience:
-  - 4+ Years
-
-Location:
-  - Pune, Maharashtra, India 🇮🇳
-
-Industry:
-  - Corporate IT Sector
-
-Certification:
-  - AWS Certified Solutions Architect – Associate
-
-Specialization:
-  - AWS Cloud
-  - DevOps Automation
-  - CI/CD Engineering
-  - Kubernetes
-  - Infrastructure as Code
-  - Cloud Monitoring
-  - Cloud Security
 ```
 
 
@@ -238,9 +205,6 @@ I specialize in designing cloud infrastructure, automating deployments, building
 
 🚨 AWS Shield
    └── DDoS Protection
-
-🔍 GuardDuty
-   └── Threat Detection & Monitoring
 ```
 
 
