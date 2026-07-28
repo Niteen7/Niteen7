@@ -9,8 +9,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:232F3E,70:FF9900,100:0F172A&height=280&section=header&text=NITEEN%20R%20MAHAPURE&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AWS%20DEVOPS%20ENGINEER%20%7C%20CLOUD%20AUTOMATION%20%7C%20KUBERNETES%20%7C%20TERRAFORM&descAlignY=60&descSize=18"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1E293B,100:00FF99&height=260&section=header&text=$%20NITEEN%20DEVOPS&fontSize=48&fontColor=00FF99&animation=twinkling&fontAlignY=45&desc=AWS%20%7C%20KUBERNETES%20%7C%20TERRAFORM%20%7C%20CI%2FCD&descAlignY=65"/>
 
 <br>
 
