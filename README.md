@@ -9,8 +9,11 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:232F3E,50:FF9900,100:111827&height=300&section=header&text=NITEEN%20R%20MAHAPURE&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=AWS%20Certified%20Solutions%20Architect%20%7C%20DevOps%20Engineer&descAlignY=65&descSize=20"/>
-<br>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=1000&lines=NITEEN+R+MAHAPURE;AWS+DEVOPS+ENGINEER;AWS+CERTIFIED+SOLUTIONS+ARCHITECT;KUBERNETES+%7C+TERRAFORM+%7C+JENKINS;BUILD+%7C+AUTOMATE+%7C+DEPLOY+%7C+SCALE"/>
+
+</div><br>
 
 
 <img src="https://komarev.com/ghpvc/?username=Niteen7&style=for-the-badge&label=PROFILE+VIEWS&color=FF9900"/>
