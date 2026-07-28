@@ -11,12 +11,12 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **DevOps and Cloud Engineer from India** with **4+ years of experience** in:
+I am a passionate **AWS DevOps Engineer from India** with **4+ years of experience** in:
 
 - ☁️ Cloud Infrastructure
 - 🔄 CI/CD Automation
 - 🐳 Containerization
-- ☸️ Kubernetes Administration
+- ☸️ Kubernetes Workloads
 - ⚙️ Infrastructure Automation
 - 🚀 Production-grade Application Delivery
 
