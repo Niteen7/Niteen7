@@ -8,12 +8,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=950&lines=AWS+DevOps+Engineer;4%2B+Years+of+Experience;Cloud+Infrastructure+Automation;CI%2FCD+Pipeline+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;AWS+Cloud+%7C+GitOps+%7C+Monitoring"/>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,50:0F172A,100:00B4D8&height=280&section=header&text=Niteen%20R%20Mahapure&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Cloud%20Native%20%7C%20AWS%20DevOps%20Engineer%20%7C%20GitOps&descAlignY=65"/>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=1000&lines=NITEEN+R+MAHAPURE;AWS+DEVOPS+ENGINEER;AWS+CERTIFIED+SOLUTIONS+ARCHITECT;KUBERNETES+%7C+TERRAFORM+%7C+JENKINS;BUILD+%7C+AUTOMATE+%7C+DEPLOY+%7C+SCALE"/>
-
-</div><br>
+<br>
 
 
 <img src="https://komarev.com/ghpvc/?username=Niteen7&style=for-the-badge&label=PROFILE+VIEWS&color=FF9900"/>
