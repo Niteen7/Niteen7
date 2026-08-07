@@ -136,28 +136,30 @@ I enjoy collaborating on:
 - 🚀 DevOps Projects
 - ☁️ AWS Cloud Infrastructure
 - ☸️ Kubernetes Solutions
-- ⚙️ Terraform Automation
 - 🔄 CI/CD Pipelines
 - 📦 Docker Projects
 - 🏗️ Infrastructure as Code
-- 🌍 Open Source Contributions
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
+
+<p>
+📧 Email: niteenmahapure7@gmail.com
+
+🐙 GitHub: https://github.com/Niteen7
+
+📸 Instagram: https://instagram.com/niteen_243
+</p>
+
+---
+
+<h3 align="center">
+💡 "Building the future, one deployment at a time"
+</h3>
 
 <p align="center">
-
-🌐 <a href="https://YOUR-PORTFOLIO-LINK">Portfolio</a>
-
-📄 <a href="https://www.claudeusercontent.com/artifact/Niteen_Mahapure_Resume.pdf">Resume</a>
-
-💼 <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-
-🐙 <a href="https://github.com/Niteen7">GitHub</a>
-
-📸 <a href="https://instagram.com/niteen_243">Instagram</a>
-
+<b>Build • Automate • Secure • Scale</b>
 </p>
 
 ---
