@@ -53,56 +53,31 @@ Verify Certification on Credly
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-### 🚀 DevOps
+### ☁️ Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions" />
-</p>
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash" />
-</p>
-
-### ⚡ Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,github,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12"/>
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 🔧 DevOps Ecosystem
 
-### 🚀 Explore my DevOps portfolio
-
-🌐 **Portfolio Website**
-
-👉 **https://YOUR-PORTFOLIO-LINK**
+<p>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nexus-1B1B1B?style=for-the-badge&logo=sonatype&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
 
 ---
-
 ### 🐙 GitHub Projects
 
 👉 https://github.com/Niteen7
