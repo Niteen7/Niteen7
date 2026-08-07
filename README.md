@@ -31,12 +31,6 @@ I specialize in building scalable, secure, and highly available cloud-native pla
 
 # 🏆 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/05bde280-1a35-4cb5-ab7a-e51e2eceb6f6/public_url">
-    <img src="./assets/aws-saa.png" width="180" alt="AWS Certified Solutions Architect – Associate">
-  </a>
-</p>
-
 <h3 align="center">
 🏅 AWS Certified Solutions Architect – Associate
 </h3>
