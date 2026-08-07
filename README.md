@@ -164,10 +164,6 @@ I enjoy collaborating on:
 
 ---
 
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
