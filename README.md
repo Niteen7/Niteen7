@@ -24,6 +24,19 @@ I enjoy designing scalable cloud solutions, automating deployments, improving re
 
 ---
 
+## 🏆 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/05bde280-1a35-4cb5-ab7a-e51e2eceb6f6/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/0e8a9580-2a01-4b1f-bd4f-6b6b1f9b0f8f/AWS-Certified-Solutions-Architect-Associate_badge.png" alt="AWS Certified Solutions Architect - Associate" width="120"/>
+  </a>
+</p>
+
+- 🏅 **Certified AWS Solutions Architect – Associate**
+  - 🔗 https://www.credly.com/badges/05bde280-1a35-4cb5-ab7a-e51e2eceb6f6/public_url
+
+---
+
 ## 🚀 Currently Working On
 
 <p>
